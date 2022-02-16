@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1645042828 source:e:\Ћабы по проге (в)\2 курс\labr2.3\2.1.1.cpp
+	<windows.h>
+	<fstream>
+	<iostream>
+	"2.1.h"
+
+1645042860 e:\Ћабы по проге (в)\2 курс\labr2.3\2.1.h
+	<fstream>
+	<iostream>
+
+1645024102 source:e:\Ћабы по проге (в)\2 курс\labr2.3\2.1.2.cpp
+	<windows.h>
+	<fstream>
+	<clocale>
+	<iostream>
+	"2.1.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1643636526 source:e:\Ћабы по проге (в)\2 курс\labr6\6.1.cpp
+	<windows.h>
+	<clocale>
+	<stdio.h>
+	"6.h"
+
+1643636516 e:\Ћабы по проге (в)\2 курс\labr6\6.h
+
+1643636558 source:e:\Ћабы по проге (в)\2 курс\labr6\6.2.cpp
+	<windows.h>
+	<clocale>
+	"6.h"
+

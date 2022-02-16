@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1642874154 source:e:\labr1\1.4.2.cpp
+	<iostream>
+	<clocale>
+	<windows.h>
+	"1.4.2.h"
+
+1642873680 e:\labr1\1.4.2.h
+	<fstream>
+	<iostream>
+
+1642873130 source:e:\labr1\1.4.1.cpp
+	"1.4.2.h"
+	<iostream>
+
+1644503700 source:e:\Ћабы по проге (в)\2 курс\labr1.4\1.4.1.cpp
+	"1.4.2.h"
+	<iostream>
+	<fstream>
+
+1644503722 e:\Ћабы по проге (в)\2 курс\labr1.4\1.4.2.h
+	<fstream>
+	<iostream>
+
+1644503554 source:e:\Ћабы по проге (в)\2 курс\labr1.4\1.4.2.cpp
+	<iostream>
+	<clocale>
+	<windows.h>
+	<fstream>
+	"1.4.2.h"
+
+1643049120 e:\Ћабы по проге (в)\2 курс\labr1.4\1.4.1.cpp
+	"1.4.2.h"
+	<iostream>
+	<fstream>
+

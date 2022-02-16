@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1643704662 source:e:\Ћабы по проге (в)\2 курс\labr7\libr7\stringdll.cpp
+	"StringDLL.h"
+
+1644853962 e:\Ћабы по проге (в)\2 курс\labr7\libr7\stringdll.h
+	<windows.h>
+

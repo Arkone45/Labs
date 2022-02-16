@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1643827132 source:e:\Ћабы по проге (в)\2 курс\labr8\8.1.cpp
+	<windows.h>
+	<fstream>
+	<clocale>
+	"8.h"
+
+1643828718 e:\Ћабы по проге (в)\2 курс\labr8\8.h
+
+1643828776 source:e:\Ћабы по проге (в)\2 курс\labr8\8.2.cpp
+	<stdio.h>
+	<malloc.h>
+	"8.h"
+

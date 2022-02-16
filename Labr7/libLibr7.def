@@ -1,0 +1,4 @@
+EXPORTS
+    DllMain @1
+    SomeFunction @2
+    String_to_words @3

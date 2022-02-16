@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1643911888 source:e:\Ћабы по проге (в)\2 курс\labr10\10.1.cpp
+	<windows.h>
+	<fstream>
+	<clocale>
+	"10.h"
+
+1643979430 e:\Ћабы по проге (в)\2 курс\labr10\10.h
+
+1643977940 source:e:\Ћабы по проге (в)\2 курс\labr10\10.2.cpp
+	<stdio.h>
+	<malloc.h>
+	<exception>
+	<stdexcept>
+	"10.h"
+

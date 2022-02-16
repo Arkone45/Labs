@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1644433056 source:e:\Ћабы по проге (в)\2 курс\labr12\10\12.1.cpp
+	<windows.h>
+	<iostream>
+	<clocale>
+	"12.2.cpp"
+
+1644433008 e:\Ћабы по проге (в)\2 курс\labr12\10\12.2.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<malloc.h>
+	<clocale>
+	"12.h"
+
+1644433008 e:\Ћабы по проге (в)\2 курс\labr12\10\12.h
+
+1644433008 source:e:\Ћабы по проге (в)\2 курс\labr12\10\12.2.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<malloc.h>
+	<clocale>
+	"12.h"
+
